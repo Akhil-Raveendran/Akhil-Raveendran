@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akhil-Raveendran
-- 🌱 I’m currently learning phython
+- 🌱 I’m currently learning python
 - 📫 akhilravi070@gmail.com
 
 <!---
